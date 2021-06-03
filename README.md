@@ -11,21 +11,13 @@ factorize these numbers as fast as possible before the target fixes this bug on 
       0. Factorize all the things!
     </h3>
 
-    <div>
-        <span class="label label-info">
-          #advanced
-        </span>
-    </div>
-  </div>
+   
 
   <div class="panel-body">
     <span id="user_id" data-id="222"></span>
 
     
 
-    <!-- Progress vs Score -->
-
-    <!-- Task Body -->
     <p>Factorize as many numbers as possible into a product of two smaller numbers.</p>
 
 <ul>
@@ -94,22 +86,15 @@ julien@ubuntu:~/factors$
 
   </div>
 
-  <div class="list-group">
-    <!-- Task URLs -->
-
-    <!-- Github information -->
+  <div class="list-group"> 
       <div class="list-group-item">
         <p><strong>Repo:</strong></p>
         <ul>
           <li>GitHub repository: <code>RSA-Factoring-Challenge</code></li>
             <li>File: <code>factors</code></li>
         </ul>
-      </div>
-
-    <!-- Self-paced manual review -->
-  </div>
-
-  <!-- Panel footer - Controls -->
+      </div> 
+  </div> 
 
     <div class="panel-footer">
       
@@ -226,8 +211,8 @@ julien@ubuntu:~/factors$
 </div>
 
             </div>
-        </div><!-- /.modal-content -->
-    </div><!-- /.modal-dialog -->
+        </div> 
+    </div> 
 </div>
 
 
@@ -263,10 +248,7 @@ julien@ubuntu:~/factors$
     <span id="user_id" data-id="222"></span>
 
     
-
-    <!-- Progress vs Score -->
-
-    <!-- Task Body -->
+ 
     <p>RSA Laboratories states that: for each RSA number <code>n</code>, there exist prime numbers <code>p</code> and <code>q</code> such that</p>
 
 <p><code>n</code> = <code>p</code> × <code>q</code>.
@@ -307,10 +289,7 @@ julien@ubuntu:~/RSA Factoring Challenge$ [...]
 
   </div>
 
-  <div class="list-group">
-    <!-- Task URLs -->
-
-    <!-- Github information -->
+  <div class="list-group"> 
       <div class="list-group-item">
         <p><strong>Repo:</strong></p>
         <ul>
@@ -318,11 +297,9 @@ julien@ubuntu:~/RSA Factoring Challenge$ [...]
             <li>File: <code>rsa</code></li>
         </ul>
       </div>
-
-    <!-- Self-paced manual review -->
+ 
   </div>
-
-  <!-- Panel footer - Controls -->
+ 
 
     <div class="panel-footer">
       
@@ -439,8 +416,8 @@ julien@ubuntu:~/RSA Factoring Challenge$ [...]
 </div>
 
             </div>
-        </div><!-- /.modal-content -->
-    </div><!-- /.modal-dialog -->
+          </div>
+    </div> 
 </div>
 
 
